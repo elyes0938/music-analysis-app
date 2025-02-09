@@ -10,6 +10,17 @@ Elle permet :
 - D'interpréter les données grâce à des visualisations interactives.
 
 ---
+## Captures d'Écran
+
+### 1. Page d'Accueil
+
+<img width="874" alt="image" src="https://github.com/user-attachments/assets/6b23565e-c339-4318-9279-a512ed0ffe3f" />
+
+
+
+### 1. Dashboard
+
+
 
 ## ⚙️ Instructions d'Installation et d'Exécution
 
