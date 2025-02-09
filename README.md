@@ -87,6 +87,10 @@ Music_Analysis_App/
 - **Exploration des corrélations** entre différentes caractéristiques musicales.
 
 ---
+## 🚀 Application Déployée
+
+L'application est disponible en ligne ici : [Music Analysis App sur Hugging Face](https://huggingface.co/spaces/Elyesss08/music-analysis-app)
+
 
 ## 🚀 Avenir de l'Application
 Des améliorations futures peuvent inclure :
