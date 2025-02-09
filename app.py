@@ -4,7 +4,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 # Load the dataset
-data = pd.read_csv('C:/Users/HP/Downloads/songs_normalize.csv')
+data = pd.read_csv('songs_normalize.csv')
 
 # Streamlit Configuration
 st.set_page_config(page_title="Analyse Musicale", layout="wide")
