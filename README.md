@@ -19,6 +19,7 @@ Elle permet :
 
 
 ### 1. Dashboard
+<img width="367" alt="image" src="https://github.com/user-attachments/assets/1b5b2774-e698-417d-b37e-8d8ec9baf460" />
 
 
 
